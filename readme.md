@@ -20,7 +20,7 @@
 *4. Selamat, kamu sudah bisa membuat toko laundry*
 
 ## Kontak
-*Email: bagusbudisatototo2001@gamil.com*
+*Email: bagusbudi1308@gmail.com
 
 
 
