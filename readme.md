@@ -1,4 +1,4 @@
-# [Aplikasi Laundry App]
+# Aplikasi Laundry App
 *Halo, ini adalah aplikasi Laundry yang dibangun dengan cinta (love). Aplikasi ini sudah bisa multi toko loh, alias kamu bisa membuat cabang laundry.*
 
 
