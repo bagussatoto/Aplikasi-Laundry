@@ -12,7 +12,7 @@
         "andes2912/indobank": "^0.5.0",
         "barryvdh/laravel-dompdf": "^0.8.4",
         "fideloper/proxy": "^4.0",
-        "laravel-notification-channels/telegram": "^0.5.1",
+        "laravel-notification-channels/telegram": "^4.0.0",
         "laravel/framework": "^8.0",
         "laravel/tinker": "^2.0",
         "laravel/ui": "^3.0",
